@@ -1,8 +1,8 @@
 {
   "worker": {
-    "url": "https://github.com/joo3434/local-STT-releases/releases/download/worker-v0.1.1/fw-sherpa-pack.zip",
-    "sha256": "865a4e2d8ff46387a41a5e8b31fc71bd99e4b18d9c1a2220454b286fb7655fb4",
-    "version": "0.1.1",
+    "url": "https://github.com/joo3434/local-STT-releases/releases/download/worker-v0.1.2/fw-sherpa-pack.zip",
+    "sha256": "9a0f4377a86b6762b1cfaa03bcdbeb0203fa1c67770da34af4ac2696ca958405",
+    "version": "0.1.2",
     "protocol": 1
   },
   "models": [
