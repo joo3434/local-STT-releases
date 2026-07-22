@@ -1,0 +1,13 @@
+{
+  "worker": {
+    "url": "https://github.com/joo3434/local-STT-releases/releases/download/worker-v0.1.0/fw-sherpa-pack.zip",
+    "sha256": "bb09c897eac592cc5a44f436fef60b3544b2e781c571478bcfcf379fe35455b3",
+    "version": "0.1.0",
+    "protocol": 1
+  },
+  "models": [
+    {"name": "medium", "label": "Medium(기본)"},
+    {"name": "large-v3-turbo", "label": "Large v3 Turbo"},
+    {"name": "large-v3", "label": "Large v3"}
+  ]
+}
